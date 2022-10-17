@@ -2,4 +2,5 @@
 
 Connecting with GitHub
 
-1. Pushing updates do GitHub
+1. Pushing updates to GitHub
+2. Pulling updates to local repository
