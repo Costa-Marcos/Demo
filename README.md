@@ -1,3 +1,5 @@
 # Demo
 
-Connecting with Git-Hub
+Connecting with GitHub
+
+1. Pushing updates do GitHub
